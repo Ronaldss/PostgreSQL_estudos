@@ -1,4 +1,18 @@
 COMANDOS BASICOS
+----------------
+
+
+>>>> COMANDOS CRUD <<<<<
+
+SELECT * FROM nomeTabela;
+
+INSERT INTO nomeTabela VALUES('dadoColuna1', 'dadoColuna2','dadoColuna3');
+
+UPDATE nomeTabela SET nomeLinha = dadoNovo WHERE nomeLinha = dadoAntigo;
+
+
+--------------------------------------------------------------------------
+
 
 \c  (nome banco) - acessar banco de dados 
 \du              - visualizar usuarios
@@ -9,7 +23,9 @@ COMANDOS BASICOS
 \!               - acessar area do shell/cmd, para voltar usar Esc
 \! (comando)     - efetuando o \! mais o comando sem sair do psql
 
------------------------------------------------
+
+--------------------------------------------------------------------------
+
 
 COMANDOS DE AJUDA
 
