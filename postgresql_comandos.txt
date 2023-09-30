@@ -1,0 +1,19 @@
+COMANDOS BASICOS
+
+\c  (nome banco) - acessar banco de dados 
+\du              - visualizar usuarios
+\l               - visualizar bancos de dados
+\d               - visualizar tabelas
+\dS              - visualizar tabelas internas do postgres
+\q               - sair
+\!               - acessar area do shell/cmd, para voltar usar Esc
+\! (comando)     - efetuando o \! mais o comando sem sair do psql
+
+-----------------------------------------------
+
+COMANDOS DE AJUDA
+
+\h           - help de comandos possiveis
+\h (comando) - help do comando especifico
+\?           - comando internos do psql
+
