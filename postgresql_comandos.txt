@@ -4,6 +4,15 @@ COMANDOS BASICOS
 
 >>>> COMANDOS CRUD <<<<<
 
+CREATE DATABASE nomeBaseDados;
+
+CREATE TABLE nomeTabela (
+   nomeColuna_01 VARCHAR(10),
+   nomeColuna_02 VARCHAR(8)
+);
+
+USE nomeBaseDados;
+
 SELECT * FROM nomeTabela;
 
 INSERT INTO nomeTabela VALUES('dadoColuna1', 'dadoColuna2','dadoColuna3');

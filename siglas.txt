@@ -1,0 +1,12 @@
+>>>> SIGLAS <<<<<
+
+SGDB
+	Sistema de gerenciamento de banco de dados.
+
+
+RDBMS (Relational Database Management System)
+
+	Um sistem de gerenciamento de banco de dados relacional.
+	É um programa usado para Criar, Atualizar e Gerenciar banco de dados relacionais.
+	Exemplos: MySQL, PostgreSQL, MariaDB, Microsoft SQL Server e Oracle.
+

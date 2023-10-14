@@ -1,0 +1,41 @@
+>>>>> TIPOS DADOS <<<<<
+
+CHAR ou CHARACTER
+	Ele é rígido e prefere que seus dados sejam de um tamanho padrão.
+
+
+INT ou INTEGER
+	Acha que os números deviam ser sempre inteiros, mas ele não tem medo
+	de números negativos.
+
+
+DEC ou DECIMAL
+	Ele dará todas as casas decimais que você pedir, até ele se encher.
+
+
+DATATIME ou TIMESTAMP
+	Depende do sistema SQL RDBMS utilizado. Ele cuida de datas e horas, tem um 
+	irmão gêmeo, TIME (hora) que não se importa que data é.
+
+
+VARCHAR
+	Pode conter dados de texto de até 255 caracteres de tamanho. Ele é flexível
+	e se adapta ao tamanho de seus dados.
+
+BLOB
+	Ele gosta de grandes blocos de cádigod de código em texto.
+
+DATA
+	Mantem o controle de duas datas, embora não ligue para horários.
+
+
+
+
+-----------------------------------------------------------------------------------
+
+OBSERVAÇÃO: 
+	Estes nomes de tipos de dados podem não funcionar  no seu sistema SQL RDBMS
+
+
+
+
